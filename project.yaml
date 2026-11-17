@@ -28,7 +28,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://www.keycloak.org/"
 
-artwork: "https://landscape.cncf.io/logos/keycloak.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/keycloak"
 
 adopters:
   path: "https://github.com/keycloak/keycloak/blob/main/ADOPTERS.md"
